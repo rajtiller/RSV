@@ -37,4 +37,7 @@ int main()
 }
 
 // to do:
-// 
+// find way to turn into 2-d matrix
+// find way to convert from rsv to csv
+// test speed of above conversion
+// ensure accuracy
